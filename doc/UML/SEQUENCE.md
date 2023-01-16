@@ -1,23 +1,23 @@
-## Inscription
+## Diagramme d'inscription
 
-![](/doc/UML/DS_inscrip.png)
+![](/doc/UML/asset/DS_inscrip.png)
 
-## Connexion
+## Diagramme de connexion
 
-![](/doc/UML/DS_co.png)
+![](/doc/UML/asset/DS_co.png)
 
-## Déconnexion
+## Diagramme de déconnexion
 
-![](/doc/UML/DS_deco.png)
+![](/doc/UML/asset/DS_deco.png)
 
 ## Dashboard
 
-![](/doc/UML/Dashboard.png)
+![](/doc/UML/asset/Dashboard.png)
 
 ## Stack
 
-![](/doc/UML/stack.png)
+![](/doc/UML/asset/stack.png)
 
 ## Delete
 
-![](/doc/UML/delete.png)
+![](/doc/UML/asset/delete.png)
