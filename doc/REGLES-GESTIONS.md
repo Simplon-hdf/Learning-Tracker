@@ -1,4 +1,4 @@
-## Règles de gestions
+### Règles de gestions
 
 ### Le visiteur
 
