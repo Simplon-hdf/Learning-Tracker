@@ -1,3 +1,93 @@
+# Proposition technique :
+
+![](/doc/Assets/proposition.jpg)
+
+### Introduction
+
+Afin de déterminer le choix des technologies notre équipe a effectué une analyse comparative détaillée de différentes options technologiques en se basant sur les besoins du client, la performance, la réactivité et la sécurité. Nous avons mis en place une méthode structurée pour comparer objectivement ces options en utilisant des critères précis. Notre objectif était de sélectionner les technologies les plus adaptées pour atteindre les objectifs du projet de manière efficace et de satisfaire les besoins du client sans négliger les aspects de performance, de réactivité et de sécurité.
+
+<details>
+
+<summary><b>Tableau comparaison back-end</b></summary>
+
+| Back                    | Koa | Fastify | Nest | Adonis |
+| ----------------------- | --- | ------- | ---- | ------ |
+| Big ou small            | 3   | 3       | 4    | 4      |
+| \_ Custo                | 4   | 3       | 5    | 2      |
+| \_ Rapidité             | 3   | 4       | 4    | 3      |
+| Popularité              | 3   | 2       | 4    | 2      |
+| Maturité                | 4   | 3       | 2    | 3      |
+| Releases                | 3   | 4       | 3    | 3      |
+| Best Practices          | 4   | 3       | 4    | 3      |
+| Equipe Core             | 2   | 3       | 5    | 2      |
+| GitHub Stars            | 3   | 2       | 5    | 1      |
+| Licence Open Source     | 4   | 3       | 4    | 4      |
+| \_ Distribution         | 4   | 3       | 4    | 3      |
+| \_ Commercial           | 4   | 2       | 3    | 4      |
+| \_ Modification         | 4   | 2       | 4    | 3      |
+| \_ Restriction          | 3   | 2       | 3    | 3      |
+| Commu GitHub            | 5   | 3       | 4    | 1      |
+| \_ Contributeurs        | 2   | 5       | 4    | 1      |
+| \_ Used                 | 4   | 3       | 4    | 1      |
+| \_ Issu                 | 3   | 4       | 5    | 2      |
+| \_ Pull Request         | 4   | 3       | 5    | 1      |
+| \_ Process contribution | 2   | 4       | 4    | 1      |
+| Dernier commit          | 3   | 4       | 4    | 2      |
+| Sponso                  | 3   | 1       | 5    | 2      |
+| Stackoverflow           | 4   | 2       | 3    | 1      |
+| \_ Tag                  | 3   | 3       | 3    | 3      |
+| \_ Nombre de question   | 3   | 1       | 5    | 2      |
+| \_ Dernière question    | 4   | 3       | 5    | 3      |
+| \_ Réponse valider      | 4   | 3       | 5    | 2      |
+| Documentation           | 4   | 3       | 5    | 2      |
+| Bibliothèque            | 4   | 3       | 4    | 3      |
+| Magique                 | 2   | 1       | 2    | 1      |
+| Mariage librairies      | 3   | 3       | 4    | 2      |
+| Prise politique         | 4   | 3       | 3    | 5      |
+| Payant                  | 4   | 4       | 2    | 4      |
+| TOTAL                   | 113 | 95      | 130  | 79     |
+
+</details>
+
+</br>
+
+<details>
+
+<summary><b>Tableau comparaison front-end</b></summary>
+
+| Front                 | Angular | ReactJS | VueJS |
+| --------------------- | ------- | ------- | ----- |
+| Big ou small          | 4       | 3       | 3     |
+| \_ Custo              | 3       | 4       | 4     |
+| \_ Rapidité           | 3       | 4       | 4     |
+| Popularité            | 3       | 5       | 4     |
+| Maturité              | 4       | 3       | 1     |
+| Releases              | 3       | 4       | 4     |
+| Best Practices        | 4       | 3       | 3     |
+| Equipe Core           | 4       | 4       | 2     |
+| GitHub Stars          | 3       | 4       | 5     |
+| Licence Open Source   | 4       | 4       | 4     |
+| Commu GitHub          | 3       | 5       | 3     |
+| \_ Contributeurs      | 4       | 4       | 2     |
+| \_ Used               | 3       | 5       | 3     |
+| \_ Issu               | 4       | 3       | 2     |
+| \_ Pull Request       | 3       | 4       | 4     |
+| Dernier commit        | 4       | 4       | 2     |
+| Sponso                | 3       | 3       | 4     |
+| Stackoverflow         |
+| \_ Tag                | 4       | 4       | 4     |
+| \_ Nombre de question | 4       | 5       | 3     |
+| \_ Dernière question  | 4       | 5       | 3     |
+| \_ Réponse valider    | 3       | 4       | 3     |
+| Documentation         | 5       | 4       | 3     |
+| Bibliothèque          | 3       | 4       | 4     |
+| Mariage librairies    | 3       | 4       | 4     |
+| Prise politique       | 4       | 4       | 4     |
+| Payant                | 4       | 4       | 4     |
+| TOTAL                 | 93      | 101     | 88    |
+
+</details>
+
 ## Choix de la stack
 
 | Technologies | Description                                                                                                                                                                                                         |
