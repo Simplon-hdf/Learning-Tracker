@@ -1,12 +1,12 @@
-## Dashboard
+## Utilisation du Dashboard
 
-![](/doc/UML/Dashboard.png)
+![](/doc/UML/dashboard.png)
 
-## Stack
+## Choix de la Stack
 
-![](/doc/UML/stack.png)
+![](/doc/UML/Stack.png)
 
-## Delete
+## Delete account
 
 ![](/doc/UML/delete.png)
 
