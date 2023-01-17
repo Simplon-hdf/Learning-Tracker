@@ -14,7 +14,7 @@
 
 ![](/doc/UML/asset/Dashboard.png)
 
-## Choix de la Stack
+##  Choix de la Stack
 
 ![](/doc/UML/asset/stack.png)
 
