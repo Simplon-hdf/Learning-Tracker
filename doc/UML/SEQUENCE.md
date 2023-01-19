@@ -10,14 +10,14 @@
 
 ![](/doc/UML/asset/DS_deco.png)
 
-## Dashboard
+## Utilisation du Dashboard
 
-![](/doc/UML/asset/Dashboard.png)
+![](/doc/UML/asset/dashboard_sequence-diagram.png)
 
-## Stack
+## Choix de la Stack
 
-![](/doc/UML/asset/stack.png)
+![](/doc/UML/asset/stack_sequence-diagram.png)
 
 ## Delete
 
-![](/doc/UML/asset/delete.png)
+![](/doc/UML/asset/delete_sequence-diagram.png)
