@@ -1,3 +1,3 @@
 ## Use Case
 
-![](/doc/UML/asset/LT_usecase.png)
+![](/doc/UML/asset/LT-use-case.png)
