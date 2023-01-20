@@ -4,7 +4,7 @@
 
 ## Diagramme de connexion
 
-![](/doc/UML/asset/DS_co.png)
+![](/doc/UML/asset/Login.png)
 
 ## Diagramme de déconnexion
 
