@@ -8,7 +8,7 @@
 
 ## Diagramme de déconnexion
 
-![](/doc/UML/asset/DS_deco.png)
+![](/doc/UML/asset/Logout.png)
 
 ## Utilisation du Dashboard
 
