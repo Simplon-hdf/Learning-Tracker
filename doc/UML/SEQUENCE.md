@@ -1,6 +1,6 @@
 ## Diagramme d'inscription
 
-![](/doc/UML/asset/DS_inscrip.png)
+![](/doc/UML/asset/Signin.png)
 
 ## Diagramme de connexion
 
