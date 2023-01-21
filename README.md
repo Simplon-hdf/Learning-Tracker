@@ -50,24 +50,24 @@ Ce dépôt est une structure permettant de démarrer un projet professionnel ou 
 - [ ] **Cadrage de la demande client**
   - [ ] Contexte / Enjeux / Problèmatique
   - [ ] Questions entretiens
-  - [ ] Persona
+  - [x] Persona
   - [ ] Présentation (PowerPoint)
   - [ ] Mail de suivie / Proposition stratégique
 - [ ] **Benchmark (Analyse de la concurence)**
 - [ ] **Spécification fonctionnelle**
   - [ ] Règle de gestion
-  - [ ] UML
-    - [ ] Diagramme d'activité
-    - [ ] Use case
-    - [ ] Diagramme de séquence
-    - [ ] Diagramme de classe
+  - [x] UML
+    - [x] Diagramme d'activité
+    - [x] Use case
+    - [x] Diagramme de séquence
+    - [x] Diagramme de classe
   - [ ] Merise
-    - [ ] MCD
+    - [x] MCD
     - [ ] MLD
     - [ ] MPD
   - [ ] RBAC
-- [ ] **Epic**
-  - [ ] User Story
+- [x] **Epic**
+  - [x] User Story
   - [ ] Product backlog (Tâches)
 - [ ] **Jira**
 - [ ] **Rituels agiles**
